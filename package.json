@@ -1,0 +1,10 @@
+{
+    "license": "MIT",
+    "name": "@mindpowered/electricalc",
+    "version": "0.0.2",
+    "description": "Calculator for electrical wiring and circuits",
+    "main": "index.js",
+    "dependencies": {
+        "@mindpowered/maglev": "*"
+    }
+}
